@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mongodb": "^6.12.0",
+    "mongoose": "^8.9.3",
+    "query-string": "^9.1.1",
+    "svix": "^1.45.1"
+  }
+}
